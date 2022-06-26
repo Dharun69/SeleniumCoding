@@ -1,0 +1,8 @@
+2022-06-22 10:43:05 INFO  PropertyLog4jExamples:16 - This is an info
+2022-06-22 10:43:05 WARN  PropertyLog4jExamples:17 - This is a warning
+2022-06-22 10:43:05 ERROR PropertyLog4jExamples:18 - This is a error
+2022-06-22 10:43:05 FATAL PropertyLog4jExamples:19 - This is a fatal
+2022-06-22 10:43:27 INFO  PropertyLog4jExamples:16 - This is an info
+2022-06-22 10:43:27 WARN  PropertyLog4jExamples:17 - This is a warning
+2022-06-22 10:43:27 ERROR PropertyLog4jExamples:18 - This is a error
+2022-06-22 10:43:27 FATAL PropertyLog4jExamples:19 - This is a fatal
